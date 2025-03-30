@@ -1,0 +1,1500 @@
+[{
+  "_id": {
+    "$oid": "66080bf631f2255784413618"
+  },
+  "title": "Bhaigan Bharta",
+  "ist": "This is instruction",
+  "ing1": "oil",
+  "ing2": "oil",
+  "ing3": "oil",
+  "ing4": "oil",
+  "qty1": "1 cups",
+  "qty2": "1 cups",
+  "qty3": "1 cups",
+  "qty4": "1 cups",
+  "imgurl": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66080c3b31f225578441361a"
+  },
+  "title": "Brad",
+  "ist": "This is instruction",
+  "ing1": "oil",
+  "ing2": "oil",
+  "ing3": "oil",
+  "ing4": "oil",
+  "qty1": "1 cups",
+  "qty2": "1 cups",
+  "qty3": "1 cups",
+  "qty4": "1 cups",
+  "imgurl": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66081c185d2b5bc007fc5e26"
+  },
+  "title": "Matar Paneer",
+  "ist": "This is instruction",
+  "ing1": "oil",
+  "ing2": "oil",
+  "ing3": "oil",
+  "ing4": "oil",
+  "qty1": "1 cups",
+  "qty2": "1 cups",
+  "qty3": "1 cups",
+  "qty4": "1 cups",
+  "imgurl": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66081c3eab64533dc289be1d"
+  },
+  "title": "foha\n",
+  "ist": "This is instruction",
+  "ing1": "oil",
+  "ing2": "oil",
+  "ing3": "oil",
+  "ing4": "oil",
+  "qty1": "1 cups",
+  "qty2": "1 cups",
+  "qty3": "1 cups",
+  "qty4": "1 cups",
+  "imgurl": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660844e6ad62c74074d1928e"
+  },
+  "title": "tamiya",
+  "ist": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use. 2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. ",
+  "ing1": "Broad Beans",
+  "ing2": "Chopped Onion",
+  "ing3": "Caster Sugar",
+  "ing4": "Baking Powder",
+  "qty1": "500g",
+  "qty2": "500g",
+  "qty3": "500g",
+  "qty4": "500g",
+  "imgurl": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6608453dad62c74074d19291"
+  },
+  "title": "south indian",
+  "ist": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use. 2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. ",
+  "ing1": "Broad Beans",
+  "ing2": "Chopped Onion",
+  "ing3": "Caster Sugar",
+  "ing4": "Baking Powder",
+  "qty1": "500g",
+  "qty2": "500g",
+  "qty3": "500g",
+  "qty4": "500g",
+  "imgurl": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660867c3e254f5fc141829c1"
+  },
+  "title": "Dal fry",
+  "ist": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use. 2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. ",
+  "ing1": "Minced Beef",
+  "ing2": "Chopped Onion",
+  "ing3": "Peanut Butter",
+  "ing4": "Baking Powder",
+  "qty1": "1/4 cup",
+  "qty2": "1/4 cup",
+  "qty3": "1/4 cup",
+  "qty4": "1/4 cup",
+  "imgurl": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+  "user": {
+    "$oid": "660836d1ad62c74074d1927a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66090e8cb27370200573ffd5"
+  },
+  "title": "Butter Cookies",
+  "ist": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use. 2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. ",
+  "ing1": "Beef",
+  "ing2": "Aubergine",
+  "ing3": "Peanut Butter",
+  "ing4": "Iceberg Lettuce",
+  "qty1": "df",
+  "qty2": "1/4 cup",
+  "qty3": "1/4 cup",
+  "qty4": "1 tsp",
+  "imgurl": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661451331b806d7ba8acc914"
+  },
+  "title": "Test",
+  "ist": "testing",
+  "ing1": "test1",
+  "ing2": "test2",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "1",
+  "qty2": "2",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "661450d51b806d7ba8acc8ef"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614e0de5460cf72bfb6b2a8"
+  },
+  "title": "Aloo Parauntha",
+  "ist": "use as per your opinion",
+  "ing1": "Potatoes",
+  "ing2": "flour",
+  "ing3": "Oil",
+  "ing4": "Butter",
+  "qty1": "2",
+  "qty2": "250g",
+  "qty3": "2 tsp",
+  "qty4": "1",
+  "imgurl": "https://www.google.com/imgres?q=aloo%20paratha&imgurl=https%3A%2F%2Fsmithakalluraya.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fimage.1024x1024-95.jpg&imgrefurl=https%3A%2F%2Fsmithakalluraya.com%2Faloo-paratha-recipe-punjabi-aloo-paratha%2F&docid=jiN7HzdwG7zY8M&tbnid=wL2ffNwFXprcXM&vet=12ahUKEwj12ceVwbSFAxWi6KACHSsOCrwQM3oECFMQAA..i&w=1024&h=1383&hcb=2&ved=2ahUKEwj12ceVwbSFAxWi6KACHSsOCrwQM3oECFMQAA",
+  "user": {
+    "$oid": "6614de12f6729364d7bc3576"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661792a5f58d9c37a231387e"
+  },
+  "title": "neeem",
+  "ist": "instructions",
+  "ing1": "oil",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "1 cup",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "6617926af58d9c37a2313871"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d2f4665d1a5c4fd50d5c2"
+  },
+  "title": "Simple lemon pepper salmon for one",
+  "ist": "A simple, fresh and delicious salmon recipe that anyone can enjoy. Add a teaspoon of capers, some sliced spring onions or a sprinkle of chives for an extra zing.",
+  "ing1": "1 salmon fillet, skin off  ",
+  "ing2": "Olive oil spray  ",
+  "ing3": "½ lemon  ",
+  "ing4": "Cracked pepper  ",
+  "qty1": "1",
+  "qty2": "1",
+  "qty3": "1",
+  "qty4": "1",
+  "imgurl": "https://www.diabetesaustralia.com.au/wp-content/uploads/salmon-510950214-website.png",
+  "user": {
+    "$oid": "662d2df365d1a5c4fd50d5a2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e0ce7b460dec3311f365b"
+  },
+  "title": "Granowares Symphony",
+  "ist": " Food Grade Quality. Made from a new Patented material MFP (An Alternative to plastic and Melamine )Dishwasher Safe .Micro wavable .Chip and stain Resistant . Anti bacterial and Anti fungul . Eco Friendly and Bio degradable .",
+  "ing1": " Plastic, Melamine",
+  "ing2": "Half Plate",
+  "ing3": "Green",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "data:image/jpeg;base64,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",
+  "user": {
+    "$oid": "662e0675b460dec3311f3627"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e120db460dec3311f3680"
+  },
+  "title": "Plain Rectangular Melamine plate",
+  "ist": "100 % food grade, Pure Melamine which is INTERTEK certified - 4 partition plate to meet your dining needs in the most suitable manner",
+  "ing1": "Melamine",
+  "ing2": "4 partition",
+  "ing3": "Black",
+  "ing4": "560",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "C:\\Users\\Dell\\Downloads\\WhatsApp Image 2024-04-27 at 5.51.05 PM.jpeg",
+  "user": {
+    "$oid": "662e0675b460dec3311f3627"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e12d6b460dec3311f3688"
+  },
+  "title": "Plain Rectangular Black Melamine Partition Plate",
+  "ist": "100 % food grade, Pure Melamine which is INTERTEK certified - 4 partition plate to meet your dining needs in the most suitable manner",
+  "ing1": "Melamine",
+  "ing2": "4 partition",
+  "ing3": " Black",
+  "ing4": "₹ 560 ",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://5.imimg.com/data5/XP/HN/QI/SELLER-5217429/black-melamine-partition-plate-500x500.jpg",
+  "user": {
+    "$oid": "662e0675b460dec3311f3627"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e13dfb460dec3311f3691"
+  },
+  "title": "Shazys Enterprises Black Matt Finish Melamine Dinner Round",
+  "ist": "Durable Material: Crafted from high-quality melamine, these round plates are built to withstand everyday use, making them perfect for both casual and formal occasions.",
+  "ing1": "Melamine",
+  "ing2": "11 Inch",
+  "ing3": "Black",
+  "ing4": "₹698",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.amazon.in/Shazys-Enterprises-Finish-Melamine-12/dp/B0CJR54B7C",
+  "user": {
+    "$oid": "662e0675b460dec3311f3627"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e8ab3711768998b8e5f5b"
+  },
+  "title": "Melamine 5 Compartment Plate",
+  "ist": "",
+  "ing1": "Melamine",
+  "ing2": "Black",
+  "ing3": "Rectangular",
+  "ing4": "560",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "50 Piece",
+  "imgurl": "https://5.imimg.com/data5/SELLER/Default/2023/4/297556322/NT/GH/XY/187252433/melamine-5-compartment-plate-500x500.jpg",
+  "user": {
+    "$oid": "662e8877711768998b8e5f50"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fc480592d62beea101314"
+  },
+  "title": "Melamine",
+  "ist": "A round semi-matte black bowl holding up to 7 oz for small soup, salad, rice, or appetizer, etc.   ",
+  "ing1": "Melamine",
+  "ing2": "Black",
+  "ing3": "round",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "3",
+  "imgurl": "https://rukminim2.flixcart.com/image/312/312/xif0q/bowl/1/s/s/1-1-serving-bowl-m4-volcraft-original-imagrcd7ckguavvs.jpeg?q=70&crop=false",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fc594592d62beea10131c"
+  },
+  "title": "Green Banana Tree Shaped Tray",
+  "ist": "We are a unique entity in the industry, actively committed towards providing an optimum quality range of Banana Tree Shaped Tray.",
+  "ing1": " Melamine",
+  "ing2": "Green",
+  "ing3": "Tree shaped",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "50 Piece",
+  "imgurl": "https://5.imimg.com/data5/AZ/RU/XE/SELLER-31581534/img-20190328-wa0048-500x500.jpg",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fc656592d62beea101324"
+  },
+  "title": "Melamine Oval Eared ",
+  "ist": "elamine has a number of advantages, the main one being its durability. Thanks to the sturdy material, it can be dropped and will seldom break. This is handy for busy locations where dropping might be high. Melamine is also scratch and heat-resistant, and remains cold to the touch even when serving hot foods. Melamine is an excellent choice for places like nursing homes, schools, outdoor eateries and hospitals.",
+  "ing1": "Melamine",
+  "ing2": "Black",
+  "ing3": "Oval shape",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "40 pieces",
+  "imgurl": "https://www.cooksmill.co.uk/Content/131/images/Productimages/rsz_76025b6f7cf048938ab79beed3b6b4c4.jpg",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fc6ed592d62beea10132b"
+  },
+  "title": "Artista Melamine Sauce Bowl Melamine",
+  "ist": " The miniatures sauce bowl is a simple bowl for place for all kind of sauces. Perfect for serving sauces, dips and chutneys, it is small, yet deep enough to be used to serve small portions. So versatile, it can be used to serve different things. Make it a companion to your melamine collection.",
+  "ing1": "Melamine",
+  "ing2": "Black",
+  "ing3": "square",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "12  pack",
+  "imgurl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzt7zGzRDl9Meixmsd6klEmiKZZ9cVkCMNt81uXMZpHzh6hkfb",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fc848592d62beea101333"
+  },
+  "title": "Soup Bowl",
+  "ist": "We deal in high quality of products which are available on customer demand at best prices.",
+  "ing1": "Plastic",
+  "ing2": "Black",
+  "ing3": "Serving Bowl",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "70",
+  "imgurl": "https://5.imimg.com/data5/SELLER/Default/2020/12/XO/OH/TF/89977319/1-1000x1000.jpg",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fc90a592d62beea10133a"
+  },
+  "title": "Plates Sushi Sashimi Salad Serving Dinner Platter Dishes",
+  "ist": "afe for temperatures up to 212 degree F / 100 degree C, but NOT recommend for conventional oven or microwave oven use",
+  "ing1": "Melamine",
+  "ing2": "Black",
+  "ing3": "square",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "100 pieces",
+  "imgurl": "https://m.media-amazon.com/images/I/61RNh6pZgNL._AC_SX450_.jpg",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fca03592d62beea101351"
+  },
+  "title": "Dinner Round Palte ",
+  "ist": "Variety of Sizes: Available in various sizes, these melamine round plates are versatile and can be used for serving appetizers, salads, entrees, and desserts.",
+  "ing1": "Melamine",
+  "ing2": "Black",
+  "ing3": "Round",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "50 Piece",
+  "imgurl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNbc_A4-0yANbsRabsvC3U9hnx9RMS9DzxzWOb6M3MA2t34bm4",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fd2dfe6fd7faf56461bca"
+  },
+  "title": "Melamine  Plate",
+  "ist": "Square Platter is a stylish addition to your serving décor. The platter helps in presentation after cooking and preparation of food. The platter is designed to take center-stage at your dining table that gives you a perfect way to serve the food. This platter is perfect for serving salads, side dishes, sliced fruits, snacks, and more. Great for restaurants, caterers, and banquet facilities, home, office, indoor and outdoor travelling. These platter are food safe as its non porus in nature does not absorb food smell, stains, and germs. These are convenient for use as they are dishwasher safe",
+  "ing1": "Melamine",
+  "ing2": "square shape",
+  "ing3": "20",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "he Mallard Willows Stool has an appealing hourglass shape and round upholstered seat. The base is made from natural rattan which wraps horizontally around the piece. The white top lifts off to reveal storage inside the base. These stools provide sculptural appeal as well as versatile seating options to any floor plan.",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fd4c6e6fd7faf56461be4"
+  },
+  "title": " classic soup bowl",
+  "ist": "Cromatic crockery classic soup bowl",
+  "ing1": "cromatic",
+  "ing2": "Black",
+  "ing3": "Round",
+  "ing4": "150",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9dj-r9-oq5iMs_mGf2duCrKVVFAezdzaBRA8EsJ2vIreNPGM",
+  "user": {
+    "$oid": "662f6aafda675cf75601bd8a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663670abb71b1c3949910ef5"
+  },
+  "title": "Chicken Biriyani",
+  "ist": "Instruction",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqxCeo7YSvNR482GSb5mQDImkqG_F9YAscArkLy3ASg&s",
+  "user": {
+    "$oid": "66366b6cb71b1c3949910e9b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66387da509d270410b75725b"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "66387d6d09d270410b757249"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db571c3cdfd6413f76a74"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "663db46f3e9bd5b230adc93a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db571c3cdfd6413f76a7b"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "663db46f3e9bd5b230adc93a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db6ff3ae0a1dd704c337b"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "663db46f3e9bd5b230adc93a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db9d66c7834dab05753c8"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "663db46f3e9bd5b230adc93a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e0d3a36b183b269a6fbe5"
+  },
+  "title": "panneer biryani",
+  "ist": "spicy ",
+  "ing1": "panner ",
+  "ing2": "rice",
+  "ing3": "water",
+  "ing4": "masala",
+  "qty1": "200 gr",
+  "qty2": "4 cups",
+  "qty3": "8 cups",
+  "qty4": "to taste",
+  "imgurl": "https://tse3.mm.bing.net/th?id=OIP.W_jE-_0a1btwW_hI9YF7iwHaHa&pid=Api&P=0&h=220",
+  "user": {
+    "$oid": "663e0a9036b183b269a6fbc9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e0e3436b183b269a6fc15"
+  },
+  "title": "panner tikka masala ",
+  "ist": "spicy",
+  "ing1": "1",
+  "ing2": "2",
+  "ing3": "3",
+  "ing4": "4",
+  "qty1": "1",
+  "qty2": "12",
+  "qty3": "2",
+  "qty4": "3",
+  "imgurl": "https://images.search.yahoo.com/search/images;_ylt=AwrO8uMnDj5mQqUC.dZXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E211US105G0&p=paneer+tikka+masala&fr=mcafee&th=316&tw=474&imgurl=https%3A%2F%2Fi0.wp.com%2Fcookingfromheart.com%2Fwp-content%2Fuploads%2F2017%2F03%2FPaneer-Tikka-Masala-4.jpg%3Ffit%3D1024%252C683%26ssl%3D1&rurl=https%3A%2F%2Fcookingfromheart.com%2F2017%2F03%2F01%2Fpaneer-tikka-masala%2F&size=93KB&name=Paneer+Tikka+Masala+%7C+Easy+Paneer+Tikka+Masala+Gravy+%7C+Cooking+From+Heart&oid=4&h=683&w=1024&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.83fobRDCCsIUqEG9HXwu-QHaE8%26pid%3DApi&tt=Paneer+Tikka+Masala+%7C+Easy+Paneer+Tikka+Masala+Gravy+%7C+Cooking+From+Heart&sigr=egdvHUDamy5Q&sigit=fEkyeRiRtOx8&sigi=AQKTSeM9GBmH&sign=FNgzA_5I.wc0&sigt=FNgzA_5I.wc0",
+  "user": {
+    "$oid": "663e0a9036b183b269a6fbc9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663f0a3a9566a9289394b68d"
+  },
+  "title": "bendi curry",
+  "ist": "1",
+  "ing1": "2",
+  "ing2": "3",
+  "ing3": "4",
+  "ing4": "5",
+  "qty1": "1",
+  "qty2": "23",
+  "qty3": "3",
+  "qty4": "4",
+  "imgurl": "https://images.search.yahoo.com/images/view;_ylt=Awr.2pB9CD9m4zMx8G2JzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzNlNmZjYTBhMmQ4MGFhZWQwYjk2M2UzMDE3ZjE0MjdjBGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbendi%2Bcurry%26type%3DE211US105G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=1312&h=1024&imgurl=i1.wp.com%2Fvegecravings.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fbhindi-masala-step-by-step-recipe.jpg%3Ffit%3D3659%252C2856%26quality%3D65%26strip%3Dall%26ssl%3D1&rurl=https%3A%2F%2Fvegecravings.com%2Fbhindi-masala-dry-recipe%2F&size=176.0KB&p=bendi+curry&oid=3e6fca0a2d80aaed0b963e3017f1427c&fr2=piv-web&fr=mcafee&tt=Bhindi+Masala+Recipe+%7C+Okra+in+Onion+Tomato+Curry+%7C+VegeCravings&b=0&ni=21&no=3&ts=&tab=organic&sigr=3MCHuwQ8PvEZ&sigb=h4klvrV1N3T5&sigi=_8y.M7sSRLcJ&sigt=F.DfcWrHqPLQ&.crumb=lfk/FKe21pp&fr=mcafee&fr2=piv-web&type=E211US105G0",
+  "user": {
+    "$oid": "663e0a9036b183b269a6fbc9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640449abd08c1c9deab9225"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "66404162bd08c1c9deab91d5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6679db53551bf260942773e2"
+  },
+  "title": "Pani Puri",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.istockphoto.com/photo/pani-puri-or-golgappa-is-a-popular-indian-chat-menu-selective-focus-gm979145974-266082937?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fphuchka%2F&utm_term=phuchka",
+  "user": {
+    "$oid": "6679db00551bf260942773d1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ad7cee958f51b7dbb2caf"
+  },
+  "title": "Pakhala Bhat",
+  "ist": "Pakhala Bhat is a traditional fermented rice dish from Odisha, India, known for its cooling properties, especially during the summer months. Here's how to make it:",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "2 cups of cooked rice (preferably cooled)",
+  "qty2": "4 cups of water (or more, as needed)",
+  "qty3": "1/2 teaspoon salt",
+  "qty4": "1/2 teaspoon mustard seeds & 1-2 green chilies, slit",
+  "imgurl": "",
+  "user": {
+    "$oid": "667ad722e958f51b7dbb2ca4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c5f5b3c70611dc57f2dc7"
+  },
+  "title": "food",
+  "ist": "spicey",
+  "ing1": "11",
+  "ing2": "22",
+  "ing3": "222",
+  "ing4": "222",
+  "qty1": "222",
+  "qty2": "4",
+  "qty3": "5",
+  "qty4": "6",
+  "imgurl": "data:image/jpeg;base64,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",
+  "user": {
+    "$oid": "667c5ef93c70611dc57f2dbc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b08af5b25d385a587104b"
+  },
+  "title": "Test",
+  "ist": "Eggs",
+  "ing1": "Penut",
+  "ing2": "Mango",
+  "ing3": "Furits",
+  "ing4": "Khana",
+  "qty1": "2",
+  "qty2": "3",
+  "qty3": "4",
+  "qty4": "5",
+  "imgurl": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/dd32a287004079a7492373a39aa67b4d-1711204219796/b906eec3-2f95-48fd-b5fb-0ff332571ee7.jpg",
+  "user": {
+    "$oid": "668b086f5b25d385a5871037"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693f01dc7a737ec2f1c0a8f"
+  },
+  "title": "sadvdsgsv",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "sacvcasvav",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/800px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
+  "user": {
+    "$oid": "6693eedbc7a737ec2f1c0a1e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6b02d4b5f8df1ebf9228"
+  },
+  "title": "sabji",
+  "ist": "oil",
+  "ing1": "aalu",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.google.com/imgres?q=aloo%20sabzi&imgurl=https%3A%2F%2Fwww.funfoodfrolic.com%2Fwp-content%2Fuploads%2F2020%2F09%2FAloo-Ki-Sabzi-Thumbnail.jpg&imgrefurl=https%3A%2F%2Fwww.funfoodfrolic.com%2Faloo-ki-sabzi-recipe%2F&docid=JqPVZOV_te-iVM&tbnid=z0wFtiQwfmSRrM&vet=12ahUKEwiskNrQm7OHAxXAzjgGHT9OAH4QM3oECGUQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiskNrQm7OHAxXAzjgGHT9OAH4QM3oECGUQAA",
+  "user": {
+    "$oid": "669a6a90d4b5f8df1ebf9202"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6b40d4b5f8df1ebf9238"
+  },
+  "title": "scacvsa",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Findianambrosia.com%2Fdry-aloo-sabzi%2F&psig=AOvVaw27HGLltKCA2omGCGaNv5l6&ust=1721482352330000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPiJldWbs4cDFQAAAAAdAAAAABAJ",
+  "user": {
+    "$oid": "669a6a90d4b5f8df1ebf9202"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6b71d4b5f8df1ebf9248"
+  },
+  "title": "sab",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Aloo-Ki-Sabzi-Thumbnail.jpg",
+  "user": {
+    "$oid": "669a6a90d4b5f8df1ebf9202"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6d38d4b5f8df1ebf9290"
+  },
+  "title": "aloo sabji",
+  "ist": "",
+  "ing1": "aloo",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Aloo-Ki-Sabzi-Thumbnail.jpg",
+  "user": {
+    "$oid": "669a6cfad4b5f8df1ebf9278"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c18222f20749589ef850b3"
+  },
+  "title": "Tea",
+  "ist": "boil water with chaipatti and sugar add milk and boil then serve",
+  "ing1": "sugar",
+  "ing2": "chaipatti",
+  "ing3": "milk",
+  "ing4": "water",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.nr6qDlweRh2BHcAGBKNx2gHaE8?rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "66c18201f20749589ef850a5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6725fa74f6d5623f3beff591"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "6725fa4ff6d5623f3beff586"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6725faebf6d5623f3beff599"
+  },
+  "title": "chicken",
+  "ist": "ntg",
+  "ing1": "chicken",
+  "ing2": "salt",
+  "ing3": "chilli powder",
+  "ing4": "coriander",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://1.bp.blogspot.com/-UTvGM3C0y1A/WbxTXc9gkjI/AAAAAAAAJJU/bqNtR6ywsnsnXHntIwcbZDffm_SHFarTACLcBGAs/s1600/00000000000000000000000000000000000000000000000000000000A.jpg",
+  "user": {
+    "$oid": "6725fa4ff6d5623f3beff586"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676242ab60a321d505fda174"
+  },
+  "title": "Creamy Garlic Parmesan Chicken",
+  "ist": "1. Season chicken with salt and pepper, sear in olive oil (5-6 min/side). Remove.   2. Melt butter, sauté garlic (1 min), add broth, cream, and seasoning. Simmer.   3. Stir in Parmesan until thick, return chicken to coat. Simmer 2-3 mins.   4. Garnish with parsley. Serve with pasta or rice.",
+  "ing1": "chicken breasts",
+  "ing2": "olive oil",
+  "ing3": "butter",
+  "ing4": " heavy cream",
+  "qty1": "2",
+  "qty2": "2",
+  "qty3": "2",
+  "qty4": "1",
+  "imgurl": "https://images.app.goo.gl/jfkaREnZU8ZTUjPt7",
+  "user": {
+    "$oid": "6761c4c50d5240bc0b48f0b9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762514eff0fcc156721d37c"
+  },
+  "title": "maggie",
+  "ist": "boil the water and add taste maker",
+  "ing1": "onion",
+  "ing2": "capsicuim",
+  "ing3": "butter",
+  "ing4": "garlic",
+  "qty1": "1",
+  "qty2": "1",
+  "qty3": "1",
+  "qty4": "1",
+  "imgurl": "https://images.app.goo.gl/RYES38D5LAzEyLKr7.jpg",
+  "user": {
+    "$oid": "6761c4c50d5240bc0b48f0b9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762521cff0fcc156721d383"
+  },
+  "title": "noodles",
+  "ist": "boil the water and add taste maker",
+  "ing1": "onion",
+  "ing2": "capsicuim",
+  "ing3": "butter",
+  "ing4": "garlic",
+  "qty1": "1",
+  "qty2": "1",
+  "qty3": "1",
+  "qty4": "1",
+  "imgurl": "https://pngimg.com/uploads/noodle/noodle_PNG15.png",
+  "user": {
+    "$oid": "6761c4c50d5240bc0b48f0b9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676255ecff0fcc156721d3d6"
+  },
+  "title": "breadsandwich",
+  "ist": "butter the bread, assemble the sandwich",
+  "ing1": "bread",
+  "ing2": "butter",
+  "ing3": "cheese",
+  "ing4": "tomato",
+  "qty1": "2",
+  "qty2": "2",
+  "qty3": "2",
+  "qty4": "1",
+  "imgurl": "https://tse2.mm.bing.net/th/id/OIP.501qlwGml24rO06w6fw-JgHaFd?rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "67625477ff0fcc156721d396"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67625639ff0fcc156721d3dd"
+  },
+  "title": "noodles",
+  "ist": "boil the water and add taste maker",
+  "ing1": "onion",
+  "ing2": "capsicuim",
+  "ing3": "butter",
+  "ing4": "oil",
+  "qty1": "1",
+  "qty2": "1",
+  "qty3": "1",
+  "qty4": "1",
+  "imgurl": "https://pngimg.com/uploads/noodle/noodle_PNG15.png",
+  "user": {
+    "$oid": "67625477ff0fcc156721d396"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678b76c18e3dd8ea7cc5f476"
+  },
+  "title": "sasasa",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "678b76088e3dd8ea7cc5f412"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678b76c28e3dd8ea7cc5f47d"
+  },
+  "title": "sasasa",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "678b76088e3dd8ea7cc5f412"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678b76c28e3dd8ea7cc5f484"
+  },
+  "title": "sasasa",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "678b76088e3dd8ea7cc5f412"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022023fa863333fb48b2"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022023fa863333fb48b4"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022023fa863333fb48bb"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022123fa863333fb48bf"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022123fa863333fb48c5"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022123fa863333fb48cf"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795022123fa863333fb48d6"
+  },
+  "title": "Test",
+  "ist": "Instruction 1",
+  "ing1": "Instruction 2",
+  "ing2": "Instruction3",
+  "ing3": "Instruction4",
+  "ing4": "Instruction5",
+  "qty1": "Instruction6",
+  "qty2": "Instruction6",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://th.bing.com/th/id/OIP.x_exiKw44RjzSEt7HNnX_gHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain",
+  "user": {
+    "$oid": "6794e062df74e718b2555417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c35214e556fe242f03c002"
+  },
+  "title": "adasdad",
+  "ist": "ccaa",
+  "ing1": "xddxxxxx",
+  "ing2": "xxxx",
+  "ing3": "xxccc",
+  "ing4": "cccc",
+  "qty1": "vssxx",
+  "qty2": "vffsxx",
+  "qty3": "xcfff",
+  "qty4": "xccdsdsd",
+  "imgurl": "https://www.google.com/imgres?q=cake&imgurl=https%3A%2F%2Fpic.warmoven.in%2Fcatalog%2Fproduct%2Fcache%2F44fe08413af193cea36fde0ad0cd0f58%2Fimage%2F234187ae%2Fstrawberry-cake.jpg&imgrefurl=https%3A%2F%2Fwww.warmoven.in%2Fstrawberry-cake.html&docid=u-D_taDaqOZNaM&tbnid=KjbU_68mkCnAxM&vet=12ahUKEwib4M7LwemLAxXTgK8BHZDuDVgQM3oECGQQAA..i&w=900&h=675&hcb=2&ved=2ahUKEwib4M7LwemLAxXTgK8BHZDuDVgQM3oECGQQAA",
+  "user": {
+    "$oid": "67c35193e556fe242f03bff1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c3547ae556fe242f03c0eb"
+  },
+  "title": "pav bhaji",
+  "ist": "hhh",
+  "ing1": "h",
+  "ing2": "h",
+  "ing3": "b",
+  "ing4": "b",
+  "qty1": "b",
+  "qty2": "b",
+  "qty3": "b",
+  "qty4": "b",
+  "imgurl": "https://www.google.com/imgres?q=cake&imgurl=https%3A%2F%2Fpic.warmoven.in%2Fcatalog%2Fproduct%2Fcache%2F44fe08413af193cea36fde0ad0cd0f58%2Fimage%2F234187ae%2Fstrawberry-cake.jpg&imgrefurl=https%3A%2F%2Fwww.warmoven.in%2Fstrawberry-cake.html&docid=u-D_taDaqOZNaM&tbnid=KjbU_68mkCnAxM&vet=12ahUKEwib4M7LwemLAxXTgK8BHZDuDVgQM3oECGQQAA..i&w=900&h=675&hcb=2&ved=2ahUKEwib4M7LwemLAxXTgK8BHZDuDVgQM3oECGQQAA",
+  "user": {
+    "$oid": "67c35424e556fe242f03c0d8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c3550fe556fe242f03c134"
+  },
+  "title": "pav bhaji",
+  "ist": "jhvjh",
+  "ing1": "n",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "67c354e5e556fe242f03c129"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca71701fde2e97604c58ae"
+  },
+  "title": "Puran Poli",
+  "ist": "Cook chana dal until soft, drain excess water, mash well, mix with jaggery, cook until thick, add cardamom and nutmeg powder, knead wheat flour with water and salt into a soft dough, roll into small discs, stuff with puran mixture, roll gently, cook on a hot tawa with ghee until golden brown on both sides, serve hot with ghee",
+  "ing1": "cup chana dal",
+  "ing2": "cup jaggery",
+  "ing3": " cups wheat flour",
+  "ing4": "tablespoons ghee",
+  "qty1": "1",
+  "qty2": "1",
+  "qty3": "2",
+  "qty4": "2",
+  "imgurl": "\"C:\\Users\\Hp 840 G6\\Downloads\\puranpoli.jpg\"",
+  "user": {
+    "$oid": "67ca71111fde2e97604c58a3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca78be9828d75e5551bc84"
+  },
+  "title": "Puran Poli",
+  "ist": "Cook chana dal until soft, drain excess water, mash well, mix with jaggery, cook until thick, add cardamom and nutmeg powder, knead wheat flour with water and salt into a soft dough, roll into small discs, stuff with puran mixture, roll gently, cook on a hot tawa with ghee until golden brown on both sides, serve hot with ghee",
+  "ing1": "cup chana dal",
+  "ing2": "cup jaggery",
+  "ing3": " cups wheat flour",
+  "ing4": "tablespoons ghee",
+  "qty1": "1",
+  "qty2": "1",
+  "qty3": "2",
+  "qty4": "2",
+  "imgurl": "https://shwetainthekitchen.com/puran-poli/",
+  "user": {
+    "$oid": "67ca786f9828d75e5551bc79"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca9acb9f18697f42cbab4f"
+  },
+  "title": "MAGGI Noodles Salsa Recipe",
+  "ist": "",
+  "ing1": "MAGGI 2-Minute Noodles (Masala). ",
+  "ing2": "MAGGI Hot & Sweet Tomato Chilli Sauce ",
+  "ing3": "Tomato (Small, Chopped)  ",
+  "ing4": " Onion (Small, Finely Chopped)",
+  "qty1": "1   Packet",
+  "qty2": "2   Tablespoons",
+  "qty3": "2   Tablespoons",
+  "qty4": "1   Tablespoon",
+  "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4tuPkZjJAEw7-5PUMrBjyW5_aJfHLq23lg&s",
+  "user": {
+    "$oid": "67ca97019f18697f42cbaae8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbc37dd78f722902438730"
+  },
+  "title": "tamiya",
+  "ist": "Heat the gril to high ",
+  "ing1": "Bref",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "67c5843f7eb63bf309802ad0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbc45fd78f72290243875d"
+  },
+  "title": "gobi manchoori",
+  "ist": "cut the coliflower",
+  "ing1": "Bref",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "60",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcookpad.com%2Fin%2Frecipes%2F2613719-the-future-of-gobi-manchurian&psig=AOvVaw3T60hxJwtL-kX1vAi6_B2L&ust=1741493878613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiTkd7P-YsDFQAAAAAdAAAAABAE",
+  "user": {
+    "$oid": "67c5843f7eb63bf309802ad0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d1549bea75c531148d2cee"
+  },
+  "title": "",
+  "ist": "",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "",
+  "user": {
+    "$oid": "67d153d3ea75c531148d2c99"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e2512c9aa1fd0c732ce81c"
+  },
+  "title": "pohaa",
+  "ist": "you can make it by using 1 cup phoha oip",
+  "ing1": "",
+  "ing2": "",
+  "ing3": "",
+  "ing4": "",
+  "qty1": "",
+  "qty2": "",
+  "qty3": "",
+  "qty4": "",
+  "imgurl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fpoha-recipe-kanda-batata-poha%2F&psig=AOvVaw1kJYHbTeTW4tjq3zp0NAFl&ust=1742971497497000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi8vPLQpIwDFQAAAAAdAAAAABAE",
+  "user": {
+    "$oid": "67e24fe29aa1fd0c732ce7c3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e589f35b31c3368fbcf5af"
+  },
+  "title": "pizza",
+  "ist": "aziz",
+  "ing1": "milk",
+  "ing2": "milk",
+  "ing3": "aaaa",
+  "ing4": "aa",
+  "qty1": "aa",
+  "qty2": "aa",
+  "qty3": "aa",
+  "qty4": "aa",
+  "imgurl": "aa",
+  "user": {
+    "$oid": "67e589ad5b31c3368fbcf5a3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e6b84d3faaa23223a26059"
+  },
+  "title": "koskous",
+  "ist": "Dans un grand plat (gas3a si possible), verse la semoule.  Ajoute 2 cuillères à soupe d’huile d’olive et mélange bien pour enrober les grains.  Ajoute 1 cuillère à café de sel et 400 ml d’eau tiède progressivement en égrainant la semoule avec les mains.  Laisse reposer pendant 15 minutes pour que la semoule absorbe l’eau",
+  "ing1": "1 cuil tomate",
+  "ing2": "1 cuil tomate",
+  "ing3": "1 cuil tomate",
+  "ing4": "1 cuil tomate",
+  "qty1": "2 oil",
+  "qty2": "2 oil",
+  "qty3": "2 oil",
+  "qty4": "2 oil",
+  "imgurl": "",
+  "user": {
+    "$oid": "6608025a01e3684e058d7e2d"
+  },
+  "__v": 0
+}]
