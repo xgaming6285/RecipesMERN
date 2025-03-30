@@ -69,7 +69,7 @@ A full-stack recipe application built with the MERN stack (MongoDB, Express, Rea
    ```
    npm run dev
    ```
-
+The app will be available at localhost:5173
 ## API Endpoints
 
 - **Users:**
